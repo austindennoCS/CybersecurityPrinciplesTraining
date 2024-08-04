@@ -8,7 +8,7 @@
 - [Summary](#summary)
 
 
-<h2 id="overview">Overview</h2>
+<h2 id="Overview">Overview</h2>
 <b>This guide covers five basic cybersecurity principles that every team member can start implementing today. These principles help keep our organization's information and systems safe from cyber threats.</b>
 <h2 id="using-strong-passwords">Using Strong Passwords</h2>
 <ul>
