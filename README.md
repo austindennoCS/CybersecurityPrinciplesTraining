@@ -1,14 +1,14 @@
 <h1 id="top">Cybersecurity Principles Training for Team Members</h1>
 
 ## Table of Contents
-- [overview](#overview)
-- [using strong passwords](#using-strong-passwords)
-- [using two-factor authentication](#using-two-factor-authentication)
-- [being cautious with links and downloads](#being-cautious-with-links-and-downloads)
+- [Overview](#overview)
+- [Using Strong Passwords](#using-strong-passwords)
+- [Using Two-Factor Authentication](#using-two-factor-authentication)
+- [Being Cautious With Links and Downloads](#being-cautious-with-links-and-downloads)
 - [Summary](#summary)
 
 
-<h2 id="Overview">Overview</h2>
+<h2 id="overview">Overview</h2>
 <b>This guide covers five basic cybersecurity principles that every team member can start implementing today. These principles help keep our organization's information and systems safe from cyber threats.</b>
 <h2 id="using-strong-passwords">Using Strong Passwords</h2>
 <ul>
